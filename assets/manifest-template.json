@@ -1,0 +1,6 @@
+{
+  "_description": "已处理会话追踪。首次运行时自动创建。删除某条目可强制重新处理。",
+  "_version": "1.0",
+  "lastRun": null,
+  "sessions": {}
+}
