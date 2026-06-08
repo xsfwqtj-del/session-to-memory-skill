@@ -58,6 +58,5 @@ JSONL 会话文件 → 6 步管线 → Mio-SBAgnet—memory/
 
 输出的记忆目录可直接作为 [llm_wiki](https://github.com/nashsu/llm_wiki) 的 `raw/sources/` 输入。
 
-## 许可
 
-GPL-3.0
+
